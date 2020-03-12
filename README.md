@@ -7,3 +7,8 @@
 We do not collect and store in any form any information from your social network or sell it to advertising or other operating agencies. Personal information When you share via social network, you may be asked to enter your account password, but this information is managed by the iOS system. The app does not store the account password in any form, nor does it collect and store your social media in any form. Any personal information on the web. Privacy Policy Terms By using this App, you agree to the terms and conditions of this Privacy Policy. If you do not agree to this policy, please do not use the app. We reserve the right to change, modify, add or remove portions of this policy at any time. Please check this page regularly for any changes. If you continue to use any changes in our app after the release of these terms will mean that you have accepted these adjustments.
 
 If you have any questions, please send an email to 605361736@qq.com and we will answer your questions.
+
+プライバシーポリシー
+私たちはあなたのソーシャルネットワークからいかなる形でも情報を収集して保存したり、広告や他の運営機関に販売したりしません。ソーシャルネットワークを介して個人情報を共有する場合、アカウントパスワードの入力を求められる場合があります。ただし、この情報はiOSシステムによって管理されます。アプリはアカウントパスワードをいかなる形式でも保存せず、ソーシャル情報をいかなる形式でも収集および保存しません。ウェブ上の個人情報。プライバシーポリシーの条件このアプリを使用することにより、このプライバシーポリシーの条件に同意したことになります。このポリシーに同意しない場合は、アプリを使用しないでください。当社は、このポリシーの一部をいつでも変更、修正、追加、または削除する権利を留保します。変更がある場合は、このページを定期的に確認してください。アプリを引き続き使用する場合、リリース後にこれらの条件を変更すると、これらの調整に同意したことになります。
+
+ご質問がある場合は、605361736 @ qq.comまでメールでお問い合わせください。ご質問にお答えします。
